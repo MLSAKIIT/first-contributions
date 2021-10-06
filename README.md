@@ -1,4 +1,4 @@
-<img src="./utils/MSAC.jpg" width="110px" style="border-radius : 21%">
+<img src="https://MSCKIIT/first-contributions/.github/assets/README/logo.png" width="110px" style="border-radius : 21%">
 
 # First Contributions
 
