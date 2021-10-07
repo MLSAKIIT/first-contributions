@@ -6,4 +6,4 @@
 - [Sohini Joarder](https://github.com/SohinijRover "View Profile")
 - [Subhayan Das](https://github.com/SubhayanDas08 "View Profile")
 - [Srijan Mukherjee](https://github.com/Srijanmukherjee007 "View Profile")
-- [Hemang Mitra] (https://github.com/Hemang-mitra "View Profile")
+- [Hemang Mitra](https://github.com/Hemang-mitra "View Profile")
