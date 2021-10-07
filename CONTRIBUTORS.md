@@ -6,3 +6,4 @@
 - [Subhayan Das](https://github.com/SubhayanDas08 "View Profile")
 - [Srijan Mukherjee](https://github.com/Srijanmukherjee007 "View Profile")
 - [Suvojit Ghosh](https://github.com/TheProgrammerGod "View Profile")
+- [Parth Maheshwari](https://github.com/parthmahe "view Profile")
