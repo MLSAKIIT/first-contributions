@@ -6,3 +6,8 @@
 - [Ayush Dwivedi](https://github.com/ayushhkmr "View Profile")
 - [Subhayan Das](https://github.com/SubhayanDas08 "View Profile")
 - [Srijan Mukherjee](https://github.com/Srijanmukherjee007 "View Profile")
+- [Kausik Kar](https://github.com/Kausik-Kar "View Profile")
+- [Subhayan Das](https://github.com/SubhayanDas08 "View Profile")
+- [Srijan Mukherjee](https://github.com/Srijanmukherjee007 "View Profile")
+- [Parth Maheshwari](https://github.com/parthmahe "view Profile")
+
