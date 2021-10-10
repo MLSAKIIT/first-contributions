@@ -8,4 +8,5 @@
 - [Subhayan Das](https://github.com/SubhayanDas08 "View Profile")
 - [Srijan Mukherjee](https://github.com/Srijanmukherjee007 "View Profile")
 - [Parth Maheshwari](https://github.com/parthmahe "view Profile")
+- [Archit Gupta](https://github.com/i-archit-gupta "view Profile")
 - [Lopamudra Dalai](https://github.com/lopaissoded "view Profile")
