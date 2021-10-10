@@ -10,3 +10,11 @@
 - [Parth Maheshwari](https://github.com/parthmahe "view Profile")
 - [Archit Gupta](https://github.com/i-archit-gupta "view Profile")
 - [Lopamudra Dalai](https://github.com/lopaissoded "view Profile")
+- [Ayyaan Alim](https://github.com/wasda-exe "View Profile")
+
+
+
+
+
+
+
