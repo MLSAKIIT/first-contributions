@@ -1,15 +1,14 @@
 # Contributors
 
 - [Nishant Giri](https://github.com/nishant-giri "View Profile")
-- [Sayan Chattopadhyay](https://github.com/chiku6823 "View Profile")
-- [Nishant Giri](https://github.com/nishant-giri "View Profile")
 - [Atig Purohit](https://github.com/AtigPurohit "View Profile")
-- [Sohini Joarder](https://github.com/SohinijRover "View Profile")
+- [Sayan Chattopadhyay](https://github.com/chiku6823 "View Profile")
 - [Sohini Joarder](https://github.com/SohinijRover "View Profile")
 - [Subhayan Das](https://github.com/SubhayanDas08 "View Profile")
 - [Srijan Mukherjee](https://github.com/Srijanmukherjee007 "View Profile")
 - [Kausik Kar](https://github.com/Kausik-Kar "View Profile")
 - [Raashna Krishn](https://github.com/raashna "View Profile")
+- [Suvojit Ghosh](https://github.com/TheProgrammerGod "view Profile")
 - [Subhayan Das](https://github.com/SubhayanDas08 "View Profile")
 - [Srijan Mukherjee](https://github.com/Srijanmukherjee007 "View Profile")
 - [Parth Maheshwari](https://github.com/parthmahe "view Profile")
