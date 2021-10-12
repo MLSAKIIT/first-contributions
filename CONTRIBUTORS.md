@@ -19,4 +19,4 @@
 - [Ayyaan Alim](https://github.com/wasda-exe "View Profile")
 - [Hemang Mitra](https://github.com/Hemang-mitra "View Profile")
 - [Amarnath Patro](https://github.com/Spyder2948 "View Profile")
-
+- [Pranshu Sarthak](https://github.com/pranshusarthak "View Profile")
