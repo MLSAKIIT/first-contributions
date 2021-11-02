@@ -21,5 +21,6 @@
 - [Lopamudra Dalai](https://github.com/lopaissoded "view Profile")
 - [Ayyaan Alim](https://github.com/wasda-exe "View Profile")
 - [Hemang Mitra](https://github.com/Hemang-mitra "View Profile")
+- [Sriniketh J](https://github.com/srini047 "View Profile")
 - [Amarnath Patro](https://github.com/Spyder2948 "View Profile")
 - [Pranshu Sarthak](https://github.com/pranshusarthak "View Profile")
