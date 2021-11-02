@@ -3,6 +3,7 @@
 - [Nishant Giri](https://github.com/nishant-giri "View Profile")
 - [Atig Purohit](https://github.com/AtigPurohit "View Profile")
 - [Sohini Joarder](https://github.com/SohinijRover "View Profile")
+- [NITIN KUMAR](https://github.com/Nitin-45 "view Profile")
 - [Prativa Chakraborty](https://github.com/PrativaChakraborty "View Profile")
 - [Adrija Das](https://github.com/AdrijaDas "View Profile")
 - [Arbind Mishra](https://github.com/aragorn-619 "View Profile")
@@ -38,3 +39,4 @@
 - [Amarnath Patro](https://github.com/Spyder2948 "View Profile")
 - [Pranshu Sarthak](https://github.com/pranshusarthak "View Profile")
 - [Naman Sinha](https://github.com/NSinha025 "View Profile")
+
