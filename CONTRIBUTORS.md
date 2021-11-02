@@ -3,6 +3,7 @@
 - [Nishant Giri](https://github.com/nishant-giri "View Profile")
 - [Atig Purohit](https://github.com/AtigPurohit "View Profile")
 - [Sohini Joarder](https://github.com/SohinijRover "View Profile")
+- [Yugal Mishra](https://github.com/yugaled "View Profile")
 - [Kanishq Mandhyan](https://github.com/Kanishq2112 "View Profile")
 - [Gargi Bisht](https://github.com/gargibisht "View Profile")
 - [Sayan Chattopadhyay](https://github.com/chiku6823 "View Profile")
