@@ -18,6 +18,7 @@
 - [Suvojit Ghosh](https://github.com/TheProgrammerGod "view Profile")
 - [Subhayan Das](https://github.com/SubhayanDas08 "View Profile")
 - [Srijan Mukherjee](https://github.com/Srijanmukherjee007 "View Profile")
+- [Laharika Jain](https://github.com/Laharika28 "View Profile")
 - [Parth Maheshwari](https://github.com/parthmahe "view Profile")
 - [Ayyaan Alim](https://github.com/wasda-exe "View Profile")
 - [Harshit Mania](https://github.com/Harshitm14 "View Profile")
