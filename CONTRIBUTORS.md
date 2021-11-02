@@ -3,6 +3,7 @@
 - [Nishant Giri](https://github.com/nishant-giri "View Profile")
 - [Atig Purohit](https://github.com/AtigPurohit "View Profile")
 - [Sohini Joarder](https://github.com/SohinijRover "View Profile")
+- [Ayush Dwivedi](https://github.com/ayushhkmr "View Profile")
 - [NITIN KUMAR](https://github.com/Nitin-45 "view Profile")
 - [Prativa Chakraborty](https://github.com/PrativaChakraborty "View Profile")
 - [Adrija Das](https://github.com/AdrijaDas "View Profile")
