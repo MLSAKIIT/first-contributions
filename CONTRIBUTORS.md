@@ -2,7 +2,6 @@
 
 - [Nishant Giri](https://github.com/nishant-giri "View Profile")
 - [Amrutanshu Dash](https://github.com/AmrutanshuDash "View Profile")
-- [Atig Purohit](https://github.com/AtigPurohit "View Profile")
 - [Sohini Joarder](https://github.com/SohinijRover "View Profile")
 - [Siddhanta Banerjee](https://github.com/Sidoryx "View Profile")
 - [Shibalik Dhara](https://github.com/Rivu78 "View Profile")
@@ -46,3 +45,4 @@
 - [Naman Sinha](https://github.com/NSinha025 "View Profile")
 - [Anurag Sharma]
 - [Dhruv Patil](https://github.com/larsonjack05 "View Profile")
+- [Atig Purohit](https://github.com/AtigPurohit "View Profile")
