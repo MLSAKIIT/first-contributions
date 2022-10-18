@@ -9,6 +9,7 @@
 - [NITIN KUMAR](https://github.com/Nitin-45 "view Profile")
 - [Prativa Chakraborty](https://github.com/PrativaChakraborty "View Profile")
 - [Adrija Das](https://github.com/AdrijaDas "View Profile")
+- [Eshaan Anand](https://github.com/eshaananand "View Profile")
 - [Arbind Mishra](https://github.com/aragorn-619 "View Profile")
 - [Sohini Joarder](https://github.com/SohinijRover "View Profile")
 - [Yugal Mishra](https://github.com/yugaled "View Profile")
