@@ -1,6 +1,7 @@
 # Contributors
 
 - [Nishant Giri](https://github.com/nishant-giri "View Profile")
+- [Arya Sharma](https://github.com/Aryasharma001 "View Profile")
 - [Amrutanshu Dash](https://github.com/AmrutanshuDash "View Profile")
 - [Sohini Joarder](https://github.com/SohinijRover "View Profile")
 - [Siddhanta Banerjee](https://github.com/Sidoryx "View Profile")
