@@ -22,6 +22,7 @@
 - [Srijan Mukherjee](https://github.com/Srijanmukherjee007 "View Profile")
 - [Kausik Kar](https://github.com/Kausik-Kar "View Profile")
 - [Raashna Krishn](https://github.com/raashna "View Profile")
+- [Krishnal Panara](https://github.com/killshotroxs "View Profile")
 - [Suvojit Ghosh](https://github.com/TheProgrammerGod "view Profile")
 - [Subhayan Das](https://github.com/SubhayanDas08 "View Profile")
 - [Srijan Mukherjee](https://github.com/Srijanmukherjee007 "View Profile")
