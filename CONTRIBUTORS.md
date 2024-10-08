@@ -35,6 +35,7 @@
 - [Annesha Mukhopadhyay](https://github.com/Annnesha "View Profile")
 - [Harshil Gupta](https://github.com/codeharshil19272 "view profile")
 - [Amiya Anshu](https://github.com/acestark12 "View Profile")
+- [Dua Jessani](https://github.com/duajessani "View Profile")
 - [Shiladitya Roy](https://github.com/shiladityaroy212 "View Profile")
 - [Archit Gupta](https://github.com/i-archit-gupta "view Profile")
 - [Lopamudra Dalai](https://github.com/lopaissoded "view Profile")
