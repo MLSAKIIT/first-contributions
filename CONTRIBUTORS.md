@@ -12,6 +12,7 @@
 - [Adrija Das](https://github.com/AdrijaDas "View Profile")
 - [Eshaan Anand](https://github.com/eshaananand "View Profile")
 - [Arbind Mishra](https://github.com/aragorn-619 "View Profile")
+- [Ayushi](https://github.com/Ayushi40804 "View Profile")
 - [Sohini Joarder](https://github.com/SohinijRover "View Profile")
 - [Yugal Mishra](https://github.com/yugaled "View Profile")
 - [Kanishq Mandhyan](https://github.com/Kanishq2112 "View Profile")
