@@ -48,3 +48,4 @@
 - [Anurag Sharma]
 - [Dhruv Patil](https://github.com/larsonjack05 "View Profile")
 - [Atig Purohit](https://github.com/AtigPurohit "View Profile")
+- [Swastik Bandyopadhyay](https://github.com/swastik-apk "View Profile")
